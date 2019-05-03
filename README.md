@@ -9,7 +9,7 @@ https://raw.githubusercontent.com/becodeorg/ANT-Giertz-1-11/master/1.The-Fields/
 What went well:
   - Quickly discovered the 'Card' templates
   - After getting the hang of Bootstrap 4 things went less slow
-  - Very quick startup off a website
+  - Very quick startup of a website
   
 What went wrong:
   - Difficult library of Bootstrap 4 made it hard to find solutions
